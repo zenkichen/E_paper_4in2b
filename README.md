@@ -1,7 +1,7 @@
 # E_paper_4in2b
 ESP32驱动的三色墨水屏程序，天气日历
 
-![实物图]()
+![实物图](https://github.com/zenkichen/E_paper_4in2b/blob/main/image/e-paper.jpg)
 # 关于网页数据获取的API
 使用前修改data.h里相关的API的Key部分，如下
 
