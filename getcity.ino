@@ -43,6 +43,7 @@ void city_get() {
       Serial.println(item.city);
     } else {
       Serial.println("获取城市信息失败");
+      item.city = "获取失败";
     }
     http.end();
   }

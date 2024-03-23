@@ -157,7 +157,7 @@ void drawWeatherIcon(){
   }
   if(disp_mode==1)//白低黑图
   {
-    display.drawBitmap(145, 32, icon, 45, 45, GxEPD_BLACK);
+    display.drawInvertedBitmap(145, 32, icon, 45, 45, GxEPD_BLACK);
   }
   else if(disp_mode==2)//白低红图
   {
