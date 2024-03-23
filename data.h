@@ -2,8 +2,8 @@
 #define _DATA_H_
 #include <Time.h>
 
-String seniverse_key="S2TNa6gPEQwUNnc-9";//知心天气API Key
-char topthink_key[]="9af58a92-ce57-4e76-aadf-fa7a49a7290d";//顶想云API Key
+String seniverse_key="your api";//知心天气API Key
+char topthink_key[]="your api";//顶想云API Key
 
 // 定义 DataItem 结构体
 struct DataItem {
