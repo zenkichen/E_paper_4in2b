@@ -3,7 +3,7 @@ ESP32驱动的三色墨水屏程序，天气日历
 
 ![实物图](https://github.com/zenkichen/E_paper_4in2b/blob/main/image/e-paper.jpg)
 # 项目简介
-硬件是采用微雪的官方[ESP32墨水屏](https://www.waveshare.net/shop/e-Paper-ESP32-Driver-Board.htm)进行开发的。
+硬件是采用微雪的官方[ESP32墨水屏驱动板](https://www.waveshare.net/shop/e-Paper-ESP32-Driver-Board.htm)进行开发的。墨水屏是自己闲鱼买的电子价签拆下来的，不知道是什么型号。
 ## 软件开发
 要感谢yanyuandi[https://github.com/yanyuandi/7.5inch_Multifunctional_E-Paper](https://github.com/yanyuandi/7.5inch_Multifunctional_E-Paper),本项目代码是在他的基础上修改出来的。但是去掉了与php服务器相关的内容，因此不能支持待办事项功能。
 ## 相关类库: 
